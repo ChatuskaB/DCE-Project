@@ -1,0 +1,151 @@
+{
+	"info": {
+		"_postman_id": "7aae88fe-c6ae-4675-9b7e-a0fbe0b16cc1",
+		"name": "BackEndApiCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "21200998"
+	},
+	"item": [
+		{
+			"name": "Customer",
+			"item": [
+				{
+					"name": "Get All Customers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:7067/GetCustomers"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Customer by UserId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7067/GetCustomerById?userId=f3e688fc-7560-4f15-97d2-bae549a9ee3a",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7067",
+							"path": [
+								"GetCustomerById"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "f3e688fc-7560-4f15-97d2-bae549a9ee3a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Customer",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Username\":\"DalasAlahapEdited\",\r\n    \"Email\":\"edited@gmail.com\",\r\n    \"FirstName\":\"Dalasedited\",\r\n    \"LastName\":\"Alahapperumaedited\",\r\n    \"IsActive\": true\r\n\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7067/UpdateCustomer?userId=f3e688fc-7560-4f15-97d2-bae549a9ee3a",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7067",
+							"path": [
+								"UpdateCustomer"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "f3e688fc-7560-4f15-97d2-bae549a9ee3a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Customer",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7067/DeleteCustomer?userId=f3e688fc-7560-4f15-97d2-bae549a9ee3a",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7067",
+							"path": [
+								"DeleteCustomer"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "f3e688fc-7560-4f15-97d2-bae549a9ee3a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Active Orders by Customer",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7067/ActiveOrdersbyCustomer?userId=b8e50606-0fe3-47ab-8eaa-ab6126cf3381",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7067",
+							"path": [
+								"ActiveOrdersbyCustomer"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "b8e50606-0fe3-47ab-8eaa-ab6126cf3381"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Create Customer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Username\":\"NihalPere\",\r\n    \"Email\":\"nihal@gmail.com\",\r\n    \"FirstName\":\"Nihal\",\r\n    \"LastName\":\"Perera\",\r\n    \"IsActive\": true\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://localhost:7067/SaveCustomer"
+			},
+			"response": []
+		}
+	]
+}
