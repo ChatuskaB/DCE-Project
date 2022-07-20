@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\bin\Debug\net6.0\CustomerSystem.Common.deps.json
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\bin\Debug\net6.0\CustomerSystem.Common.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\bin\Debug\net6.0\CustomerSystem.Common.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.AssemblyInfo.cs
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\refint\CustomerSystem.Common.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\CustomerSystem.Common.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Common\obj\Debug\net6.0\ref\CustomerSystem.Common.dll

@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Services.deps.json
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Services.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Services.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Common.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Repositories.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Repositories.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\bin\Debug\net6.0\CustomerSystem.Common.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.csproj.CopyComplete
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\refint\CustomerSystem.Services.dll
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\CustomerSystem.Services.pdb
+C:\Users\hp\Desktop\MYproject\BackendAPI\CustomerSystem.Services\obj\Debug\net6.0\ref\CustomerSystem.Services.dll
