@@ -5,3 +5,5 @@
 3)import api collection
 
 4)import node modules to angular project by  npm install command
+
+5)change port in angular project app--->shared---->env.ts
